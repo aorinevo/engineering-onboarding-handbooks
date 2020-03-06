@@ -18,10 +18,10 @@ If interested, see [this medium article](https://medium.com/scaled-agile-framewo
 
 During your first week, you will be meeting your team members, as well as team leads, who will provide you with important overview of their respective areas of expertise. 
 
-**Coding Buddy:** [Insert name]\
+**Coding Buddy:** Mi Ji Kim\
 One of the key figures during your first few weeks is your coding buddy. Your coding buddy will be your initial source of information about various systems, tools and practices at Pager. In addition to being your go-to person for code related questions, you can expect your coding buddy to help you pick up your first coding assignments. This will help you dive into coding as quickly as possible, without overwhelming you.
 
-**Your Direct Manager:** [Insert name]\
+**Your Direct Manager:** Mi Ji Kim + Shay Weiss\
 Your manager will meet with you on your first day to welcome you to Pager, get to know you, understand your personal and professional goals. The purpose of the first meeting is to introduce you to this document, and set initial expectations. You will have a second meeting with your manager at the end of your first week, to check-in on your onboarding progress and introduce you to your 30-60-90 day plan.
 
 
