@@ -6,6 +6,7 @@ We would like to welcome you to Pager Inc. The purpose of this onboarding handbo
 
 ### Team Structure at Pager
 
+Please take a look at our [Squad Structure](https://docs.google.com/drawings/d/14hRZNhhM9m_t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) and make sure your name is in the right place! ^_^  \
 Pager engineering consists of five squads, most of them specializing in a different Pager product:\
 Enterprise Users (UE) - Command Center\
 Enterprise Management (ME) - Enterprise Admin\
