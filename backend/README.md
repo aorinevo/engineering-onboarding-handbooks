@@ -75,6 +75,8 @@ Use your Pager credentials to login.
 **Github:** <https://github.com>\
 You will need to create a new github account tied to your pager.com email.
 
+**Greenhouse:** <https://app.greenhouse.io/>\
+Ask Gavin Clarke of the recruiting team
 
 ### Command line utilities
 
@@ -142,6 +144,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Set up local environments
 - [ ] Get access to (ask any manager in Engineering):
     - [ ] Jira
+    - [ ] Greenhouse
     - [ ] GitHub
     - [ ] GoogleCloud dashboard (Terraform managed, create a PR for the right team [here](https://github.com/pagerinc/infra/blob/d6da5570959a23a27fec32d22a17bd8387a8c67d/modules/teams/main.tf))
     - [ ] Sentry
@@ -167,7 +170,22 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] #status
     - [ ] #releases
     - [ ] #nyc-office
+- [ ] Get yourself familiar with the high level architecture: https://whimsical.com/SB3cDuYsM689yMYNoTpGF2
+- [ ] Make your Google Calendar visible to all colleagues: https://support.google.com/calendar/answer/37082?visit_id=637257138637539347-1003588718&rd=1
 
+
+**Expectations for the first a couple months:**
+- [ ] submit a PR in the first 2 weeks.
+- [ ] release a Jira task/story in the first 2 weeks (board a release train).
+- [ ] Get access to the demo app in first 2 weeks.(see instructions below)
+- [ ] Get admin and non-admin CC user in all lower level environments in first 2 weeks.
+- [ ] Serve as release captain in first 60 days.
+- [ ] shadow 2 interviews in first 60 days.
+
+**Download the mobile app:**\
+Send your email address to Fabian Celdeiro, who is the mobile manager.
+He will add you to the list. Once you get an invitation go to this website. https://appcenter.ms/apps
+Download the test app according to you are iPhone or Android
 
 We are excited that you are joining our team, and wish to provide you with an easy and productive onboarding experience. Should you encounter any questions or difficulties at any time, do not hesitate to reach out to your direct manager or designated coding buddy. We are here to help!
 
