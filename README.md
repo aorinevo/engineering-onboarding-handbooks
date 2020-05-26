@@ -61,7 +61,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 - [ ] Join the following Slack channels:
-    - [ ] #chapter-backend
+    - [ ] #chapter-{{your chapter name}} (i.e. #squad-web)
     - [ ] #squad-{{your squad's name}} (i.e. #squad-consumer)
     - [ ] #squad-mayday-{{your squad's name}} (i.e. #squad-mayday-consumer)
     - [ ] #eng-war-room
