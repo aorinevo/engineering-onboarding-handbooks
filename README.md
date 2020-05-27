@@ -34,7 +34,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Meet your Manager
 - [ ] Meet your Coding Buddy
 - [ ] Command Center shadowing
-- [ ] Partake in backend-weekly and demo (Friday 10:45am - 11:30am EST)
+- [ ] Partake in chapter weekly and demo (if your chapter has demo)
 - [ ] End of the first week meeting with your manager
 - [ ] Platform overview with Jeremiah Bowen [self-scheduled]
 - [ ] Application architecture overview with Ryan Hall [self-scheduled]
@@ -55,9 +55,6 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] NewRelic
     - [ ] SumoLogic
     - [ ] MixPanel
-- [ ] Setup LastPass (IT)
-- [ ] Review frontend specific documentation
-- [ ] Download example Pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 - [ ] Join the following Slack channels:
@@ -79,7 +76,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 
 **Expectations for the first a couple months:**
 
-- [ ] Get access to the demo app in first 2 weeks
+- [ ] Get access to the demo app in first 2 weeks (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Get admin and non-admin CC user in all LL environments in the first two weeks.
 - [ ] Do a 10 minute product demo to Lead/Manager (able to join a chat as a consumer from the demo app or WebSDK, able to pick up the chat as an Enterprise User, able to explain the UI for Enterprise user (scripts, recommendations, video chat).Tip: Record for yourself for future reference.
 - [ ] Shadowing an interview in the first 30-60 days (or earliest opportunity possible if we’re not hiring for the chapter) [Non Jrs]
