@@ -79,7 +79,7 @@ Use your Pager credentials to login.
 You will need to create a new github account tied to your pager.com email.
 
 **Greenhouse:** <https://app.greenhouse.io/>\
-Ask Gavin Clarke of the recruiting team
+Use you Google SSO to sign in and ask Gavin Clarke of the recruiting team for permissions
 
 
 ### Command line utilities
