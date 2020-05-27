@@ -73,7 +73,7 @@ Follow instructions in the invitation email to set up your password. Please make
 Follow instructions in the invitation email to set up your password.
 
 **PagerDuty:** <https://pagerinc.pagerduty.com/>\
-Use your Pager credentials (Jumpcloud SSO) to login.
+Use your Pager credentials (Jumpcloud SSO) to login after your manager onboard you on this platform
 
 **Github:** <https://github.com>\
 You will need to create a new github account tied to your pager.com email.
