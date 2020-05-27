@@ -28,7 +28,7 @@ Below you will find documentation that will help you gain quicker understanding 
 Starting a new job can be filled with the feeling of uncertainty. Below checklist is aimed at guiding you through your first week at Pager, and helping you keep track of all the things that need to happen during this important period.
 
 **Meetings:**
-- [ ] IT Orientation with Mike Bogart
+- [ ] IT Orientation with Erika Williams
 - [ ] Security Orientation with Alexander Miller
 - [ ] Pager Orientation with Ryon Burell
 - [ ] Meet your Manager
@@ -87,4 +87,3 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Fix at least one Critical bug and release to Production in first 60 days
 - [ ] Sentry error fix in the first 60 days
 - [ ] Release captain in first 60 days
-
