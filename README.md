@@ -57,7 +57,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] MixPanel
 - [ ] Setup LastPass (IT)
 - [ ] Review frontend specific documentation
-- [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
+- [ ] Download example Pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 - [ ] Join the following Slack channels:
