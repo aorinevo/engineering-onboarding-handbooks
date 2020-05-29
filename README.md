@@ -54,7 +54,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] Sentry
     - [ ] NewRelic
     - [ ] SumoLogic
-    - [ ] MixPanel
+    - [ ] MixPanel (web and mobile only)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 - [ ] Join the following Slack channels:
