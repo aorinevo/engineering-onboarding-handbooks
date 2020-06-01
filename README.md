@@ -72,6 +72,8 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] #nyc-office
 - [ ] Get yourself familiar with the high level architecture: https://whimsical.com/SB3cDuYsM689yMYNoTpGF2
 - [ ] Make your Google Calendar visible to all colleagues: https://support.google.com/calendar/answer/37082?visit_id=637257138637539347-1003588718&rd=1
+- [ ] Read through the On-Call and Incident Response Handbook https://docs.google.com/document/d/1Na5JU7MZaEj4CYTwYyHzCqNlF2Ydl8FSmldR3X_n_0Q 
+
 
 
 **Expectations for the first a couple months:**
